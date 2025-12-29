@@ -47,11 +47,14 @@ alexa-voice-assistant/
 
 **Step 1**:
 Clone the Repository
+
 git clone https://github.com/your-username/alexa-voice-assistant.git
+
 cd alexa-voice-assistant
 
 **Step 2**:
 Install Required Libraries
+
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
 
 **Step 3**: Install PyAudio
